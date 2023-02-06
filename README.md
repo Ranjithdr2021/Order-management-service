@@ -73,9 +73,10 @@ PUT -- http://localhost:8080/update-status/Order-id
 To get the orders with specific status please select GET request and enter
 
 GET -- http://localhost:8080/GetOrdersonstatus/order-status
-**********************************************************************************************************************************
+
 To get the orders with specific order id please select GET request and enter
 
 GET -- http://localhost:8080/GetOrdersById/order-id
 
+**********************************************************************************************************************************
 Note := Testing is only done for the core logic part in this project.
